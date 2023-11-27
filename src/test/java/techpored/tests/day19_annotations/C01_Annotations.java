@@ -60,4 +60,9 @@ public class C01_Annotations {
     public void test02() {
         System.out.println("TEST 02");
     }
+
+     /*
+    Junit te  @BeforeClass ve  @AfterClass annotationina sahip methodhlar static olmak zorundaydi
+    Test NG bu zorunlulugu kaldirdi
+     */
 }
