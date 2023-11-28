@@ -1,9 +1,9 @@
-package techpored.tests.day21_POM;
+package techproed.tests.day21_POM;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import techpored.pages.OpenSourcePage;
-import techpored.utilities.Driver;
+import techproed.pages.OpenSourcePage;
+import techproed.utilities.Driver;
 
 public class C03_PageKullanimi {
 

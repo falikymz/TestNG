@@ -1,11 +1,10 @@
-package techpored.tests.day20_annotations_softassert;
+package techproed.tests.day20_annotations_softassert;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.testng.annotations.AfterGroups;
 import org.testng.annotations.BeforeGroups;
-import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 import java.time.Duration;

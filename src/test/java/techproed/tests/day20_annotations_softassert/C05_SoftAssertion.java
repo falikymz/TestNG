@@ -1,14 +1,8 @@
-package techpored.tests.day20_annotations_softassert;
+package techproed.tests.day20_annotations_softassert;
 
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
-
-import java.time.Duration;
 
 public class C05_SoftAssertion {
 

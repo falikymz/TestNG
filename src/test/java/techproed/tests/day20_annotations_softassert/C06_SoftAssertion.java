@@ -1,4 +1,4 @@
-package techpored.tests.day20_annotations_softassert;
+package techproed.tests.day20_annotations_softassert;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;

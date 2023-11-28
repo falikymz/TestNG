@@ -1,9 +1,9 @@
-package techpored.pages;
+package techproed.pages;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import techpored.utilities.Driver;
+import techproed.utilities.Driver;
 
 public class OpenSourcePage {
     public OpenSourcePage() {

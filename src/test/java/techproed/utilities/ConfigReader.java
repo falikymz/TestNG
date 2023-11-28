@@ -1,9 +1,6 @@
-package techpored.utilities;
-
-import org.testng.annotations.Test;
+package techproed.utilities;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Properties;
 
@@ -23,9 +20,5 @@ public class ConfigReader {
         return properties.getProperty(key);
     }
 
- //  @Test
- //  public void test01() {
- //      System.out.println(ConfigReader.getProperty("amazonUrl"));
- //      System.out.println(ConfigReader.getProperty("techproedUrl"));
- //  }
+
 }

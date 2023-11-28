@@ -1,9 +1,9 @@
-package techpored.tests.day21_POM;
+package techproed.tests.day21_POM;
 
 import org.openqa.selenium.Keys;
 import org.testng.annotations.Test;
-import techpored.pages.AmazonPage;
-import techpored.utilities.Driver;
+import techproed.pages.AmazonPage;
+import techproed.utilities.Driver;
 
 public class C02_PageKullanimi {
 

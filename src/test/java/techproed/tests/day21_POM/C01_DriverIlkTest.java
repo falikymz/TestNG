@@ -1,7 +1,7 @@
-package techpored.tests.day21_POM;
+package techproed.tests.day21_POM;
 
 import org.testng.annotations.Test;
-import techpored.utilities.Driver;
+import techproed.utilities.Driver;
 
 public class C01_DriverIlkTest {
 
