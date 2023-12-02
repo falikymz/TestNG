@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" >
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/alika/IdeaProjects/Batch189TestNGDT/src/test/java/techproed/tests/day19_annotations">
+        <classes>
+            <class name="techproed.tests.day19_annotations.C01_Annotations">
+                <methods>
+                    <include name="test01"/>
+                    <include name="test02"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

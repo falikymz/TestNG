@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Batch189">
+    <test name="Smoke Test">
+        <groups>
+            <run>
+                <include name="smoke">
+                </include>
+            </run>
+        </groups>
+        <packages>
+            <package name="techproed.tests*"></package>
+        </packages>
+    </test>
+</suite>
+<!--* all anlamına gelir -->
+<!--texhproed.* dersek bütün packageları çalıştırır anlamına gelir -->
+        <!--  'ctrl + /'   yaparak yorum satiri ekleyebilirisinz-->

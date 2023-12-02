@@ -5,12 +5,11 @@ import techproed.utilities.Driver;
 
 public class C01_DriverIlkTest {
 
-    @Test
+    @Test(groups = "smoke")
     public void test01() {
         Driver.getDriver().get("https://amazon.com");
         Driver.getDriver().get("https://facebook.com");
         Driver.getDriver().get("https://google.com");
-
 
     }
 

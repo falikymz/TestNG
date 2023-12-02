@@ -8,8 +8,6 @@ import techproed.utilities.ConfigReader;
 import techproed.utilities.Driver;
 import techproed.utilities.ExcelReader;
 
-import java.lang.invoke.SwitchPoint;
-
 public class C02_BlueRentalCarExcelTest {
 
     @Test

@@ -2,7 +2,6 @@ package techproed.tests.day24_dataprovider_xmlfiles;
 
 import org.openqa.selenium.Keys;
 import org.testng.Assert;
-import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 import techproed.pages.DataProviderPage;
 import techproed.utilities.ConfigReader;
